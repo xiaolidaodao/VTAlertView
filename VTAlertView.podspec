@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "A short description of VTAlertView."
   s.homepage     = "https://github.com/xiaolidaodao/VTAlertView"
-  s.license      = "MIT (example)"
+  s.license      =  { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "xiaoli" => "348389009@qq.com" }
   s.platform     = :ios
   s.platform     = :ios, "8.0"
