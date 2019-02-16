@@ -9,20 +9,20 @@
 Pod::Spec.new do |s|
 
   s.name         = "VTAlertView"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "VTAlertView."
   
   s.description  = <<-DESC
                     A short description of VTAlertView.
                    DESC
 
-  s.homepage     = "https://www.wxzxzj.com"
- # s.license      = "MIT"
+  s.homepage     = "https://github.com/xiaolidaodao/VTAlertView"
+  s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
   s.author       = { "xiaolidaodao" => "348389009@qq.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/xiaolidaodao/VTAlertView.git", :tag => "#{s.version}" }
-  s.source_files  = "VTAlertViewPod/**/*.{h,m}"
+  s.source_files  = "VTAlertViewPod","VTAlertViewPod/**/*.{h,m}"
   s.requires_arc = true
 
   
