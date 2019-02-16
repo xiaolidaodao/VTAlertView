@@ -76,8 +76,7 @@
 		B11A518C2216A0F000060D0A /* VTAlertView */ = {
 			isa = PBXGroup;
 			children = (
-				B11A51A32216A10000060D0A /* VTAlertView.h */,
-				B11A51A42216A10000060D0A /* VTAlertView.m */,
+				B11A51A92217E5E600060D0A /* VTAlertViewPod */,
 				B11A518D2216A0F000060D0A /* AppDelegate.h */,
 				B11A518E2216A0F000060D0A /* AppDelegate.m */,
 				B11A51902216A0F000060D0A /* ViewController.h */,
@@ -89,6 +88,15 @@
 				B11A519C2216A0F200060D0A /* main.m */,
 			);
 			path = VTAlertView;
+			sourceTree = "<group>";
+		};
+		B11A51A92217E5E600060D0A /* VTAlertViewPod */ = {
+			isa = PBXGroup;
+			children = (
+				B11A51A32216A10000060D0A /* VTAlertView.h */,
+				B11A51A42216A10000060D0A /* VTAlertView.m */,
+			);
+			path = VTAlertViewPod;
 			sourceTree = "<group>";
 		};
 		C3DEE0DB01B91BA2D29BA2A7 /* Pods */ = {

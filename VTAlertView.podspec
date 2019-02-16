@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "VTAlertView"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "A short description of VTAlertView."
   
   s.description  = <<-DESC
@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.author       = { "xiaolidaodao" => "348389009@qq.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/xiaolidaodao/VTAlertView.git", :tag => "#{s.version}" }
-  s.source_files  = "VTAlertView/**/*.{h,m}"
+  s.source_files  = "VTAlertViewPod/**/*.{h,m}"
   s.requires_arc = true
 
   
