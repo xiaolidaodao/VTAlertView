@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "VTAlertView"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "VTAlertView."
   
   s.description  = <<-DESC
