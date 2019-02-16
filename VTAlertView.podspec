@@ -10,14 +10,14 @@ Pod::Spec.new do |s|
 
   s.name         = "VTAlertView"
   s.version      = "0.0.3"
-  s.summary      = "A short description of VTAlertView."
+  s.summary      = "VTAlertView."
   
   s.description  = <<-DESC
-                    alertView
+                    A short description of VTAlertView.
                    DESC
 
   s.homepage     = "https://www.wxzxzj.com"
-  s.license      = "MIT"
+ # s.license      = "MIT"
 
   s.author       = { "xiaolidaodao" => "348389009@qq.com" }
   s.platform     = :ios, "8.0"
