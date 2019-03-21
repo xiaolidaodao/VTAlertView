@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "72A83A7B11D3F2119BCE6540677CA031"
+               BlueprintIdentifier = "ABAB5A650D652995974A5F4D98F43772"
+               BuildableName = "libPods-VTAlertView.a"
                BlueprintName = "Pods-VTAlertView"
-               ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "libPods-VTAlertView.a">
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

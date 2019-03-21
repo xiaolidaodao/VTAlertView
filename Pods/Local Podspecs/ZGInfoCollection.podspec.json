@@ -1,0 +1,23 @@
+{
+  "name": "ZGInfoCollection",
+  "version": "0.0.1",
+  "summary": "ZGInfoCollection.",
+  "description": "A short description of ZGInfoCollection.",
+  "homepage": "https://github.com/xiaolidaodao/ZGInfoCollection",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaolidaodao": "348389009@qq.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/xiaolidaodao/VTAlertView.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "ZGInfoCollectionDemo/ZGInfoCollectionDemo/ZGInfoCollection/**/*.{h,m}",
+  "requires_arc": true
+}

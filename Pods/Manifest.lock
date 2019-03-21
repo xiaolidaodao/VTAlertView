@@ -14,17 +14,24 @@ PODS:
   - AFNetworking/Serialization (3.2.1)
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
+  - ZGInfoCollection (0.0.1)
 
 DEPENDENCIES:
   - AFNetworking
+  - ZGInfoCollection (from `ZGInfoCollection`)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - AFNetworking
 
+EXTERNAL SOURCES:
+  ZGInfoCollection:
+    :path: ZGInfoCollection
+
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  ZGInfoCollection: 3af82deef339097ad049b3b59449f4d7a9ecfe76
 
-PODFILE CHECKSUM: dd8b7c0b38e84c6ba586e0324c36c4e2f52f20a9
+PODFILE CHECKSUM: 72f7b2e76b6d8c9ebc2c96705b99523b6a01d177
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.6.0

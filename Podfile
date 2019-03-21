@@ -6,6 +6,7 @@ target 'VTAlertView' do
   # use_frameworks!
 
   pod 'AFNetworking'
+  pod 'ZGInfoCollection', :path => 'ZGInfoCollection'
   # Pods for VTAlertView
 
 end
